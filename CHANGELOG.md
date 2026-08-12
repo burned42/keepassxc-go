@@ -1,4 +1,4 @@
-# For next release
+# Minor Release v1.7.0 (2026-08-12)
   * **Markus Freitag**
     * feat(pkg/keypassxc): add socket directory for flatpak installations
     * chore(go): update minimum verison to 1.25
@@ -6,7 +6,7 @@
       github.com/kevinburke/nacl v0.0.0-20250518034207-4fa338b68f84 => v0.9.0
       github.com/spf13/cobra v1.9.1 => v1.10.2
 
-*Not released yet*
+*Released by Markus Freitag <fmarkus@mailbox.org>*
 
 # Minor Release v1.6.0 (2025-05-20)
   * **Markus Freitag**
